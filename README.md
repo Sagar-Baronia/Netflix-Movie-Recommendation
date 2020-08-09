@@ -29,7 +29,7 @@
 
 *__Data Source :__*
 
-*Get the data from : https://www.kaggle.com/netflix-inc/netflix-prize-data/data*
+*Got the data from : https://www.kaggle.com/netflix-inc/netflix-prize-data/data*
 
 *__Data files :__*
 
