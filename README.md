@@ -1,5 +1,4 @@
 # ***Netflix Movie Recommendation***
-## *Classifying given pair of questions in Quora are Similar or not.*
 
 ### ***Challenge Description***
 
